@@ -1,0 +1,15 @@
+body,
+html {
+  color: #2d2337; }
+
+.cursor {
+  cursor: pointer; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.capitalize {
+  text-transform: capitalize; }
+
+.header .h1 {
+  text-align: center; }

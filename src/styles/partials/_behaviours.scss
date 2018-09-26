@@ -1,0 +1,13 @@
+@import "./variables";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: $dark-blue;
+  font-family: 'Roboto', serif;
+}
+
+.cursor {
+  cursor: pointer;
+}
